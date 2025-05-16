@@ -1,0 +1,10 @@
+{
+    "counsel_chat": {
+        "if_end_prompt": false,
+        "additional_columns": {
+            "question_id": "question_id",
+            "text": "text",
+            "upvotes": "upvotes"
+        }
+    }
+}
